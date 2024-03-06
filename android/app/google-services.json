@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430327780539",
+    "project_id": "emailphoneauthfirebase",
+    "storage_bucket": "emailphoneauthfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430327780539:android:f001a42906885fc98bc59e",
+        "android_client_info": {
+          "package_name": "com.example.emailphoneauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430327780539-nnr60u0fd4kio32laatnd17651kpfnbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailphoneauthfirebase",
+            "certificate_hash": "301b973c2fbc5e7ff3cd3b8422034e069003b100"
+          }
+        },
+        {
+          "client_id": "430327780539-jkdk0bi4en93bkofoklkin64s0aeabet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo8EZyGYsUOA92CR-fXLZU99qIAWH13bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430327780539-jkdk0bi4en93bkofoklkin64s0aeabet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
